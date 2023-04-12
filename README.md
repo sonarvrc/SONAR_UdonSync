@@ -14,7 +14,6 @@ A Simple Github Page to host your posters for VRChat Worlds!
 ```bash
   Easy to use package with a good documentation
 ```
-https://realmlist.booth.pm/items/4648405
 ## Deployment
 
 To deploy this project:
