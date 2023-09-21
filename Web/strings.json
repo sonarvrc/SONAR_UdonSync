@@ -1,3 +1,6 @@
 {
-  "IsEntranceOpen": true
+  "StringList" :{
+  "IsEntranceOpen": "true",
+    "DebugEntry": "Test"
+  }
 }
