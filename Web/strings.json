@@ -1,7 +1,7 @@
 [
   {
+    "IsEntranceOpen": "false",
     "IsPortalEvent": "false",
-    "IsEntranceOpen": "true",
     "IsUsingDMX": "true",
     
     "IsRiftCrossover":"false",
