@@ -2,14 +2,21 @@
   {
     "IsPortalEvent": "false",
     "IsEntranceOpen": "true",
+    "IsUsingDMX"; "true",
+    "IsRiftCrossover":"false",
+    
     "UpNext": "ClikSaw",
     "CurrentDJ": "SeakerAnimal",
+    
     "UsingShaderMotionDancer1": "false",
     "ShaderMotionDancer1Puppet": "1",
+    
     "UsingShaderMotionDancer2": "false",
     "ShaderMotionDancer2Puppet": "1",
+    
     "UsingShaderMotionDJ1": "false",
     "ShaderMotionDJ1Puppet": "1",
+    
     "UsingShaderMotionDJ2": "false",
     "ShaderMotionDJ2Puppet": "1",
   }
