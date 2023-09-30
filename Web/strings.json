@@ -2,8 +2,10 @@
   {
     "IsPortalEvent": "false",
     "IsEntranceOpen": "true",
-    "IsUsingDMX"; "true",
+    "IsUsingDMX": "true",
+    
     "IsRiftCrossover":"false",
+    "IsMinistryCrossover":"false",
     
     "UpNext": "ClikSaw",
     "CurrentDJ": "SeakerAnimal",
