@@ -1,25 +1,14 @@
 [
   {
-    "IsEntranceOpen": "false",
-    "IsPortalEvent": "false",
-    "IsUsingDMX": "true",
+    "IsDelugeEntranceOpen": "false",
+
+    "Player2PortalScreen": "true",
+    "Player2VJScreen": "true",
+    "Player2DJScreen": "true",
     
-    "IsRiftCrossover":"false",
-    "IsMinistryCrossover":"false",
-    
-    "UpNext": "ClikSaw",
-    "CurrentDJ": "SeakerAnimal",
-    
-    "UsingShaderMotionDancer1": "false",
-    "ShaderMotionDancer1Puppet": "1",
-    
-    "UsingShaderMotionDancer2": "false",
-    "ShaderMotionDancer2Puppet": "1",
-    
-    "UsingShaderMotionDJ1": "false",
-    "ShaderMotionDJ1Puppet": "1",
-    
-    "UsingShaderMotionDJ2": "false",
-    "ShaderMotionDJ2Puppet": "1",
+    "Player2ShaderMotion1Puppet": "1",
+    "Player2ShaderMotion2Puppet": "1",
+    "Player2ShaderMotion3Puppet": "1",
+    "Player2ShaderMotion5Puppet": "1",
   }
 ]
